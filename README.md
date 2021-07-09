@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jorge Salinas
+- 👀 I’m interested in development and data science.
+- 🌱 I’m currently learning data science.
+- 📫 How to reach me: jorgesebastiantomas@gmail.com
