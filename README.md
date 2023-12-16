@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Jorge Salinas
-- 🛠️ Software developer & math teacher.
-- 👀 Interested in development & data science.
-- 🌱 Currently learning data science.
-- 📫 jorgesebastiantomas@gmail.com
